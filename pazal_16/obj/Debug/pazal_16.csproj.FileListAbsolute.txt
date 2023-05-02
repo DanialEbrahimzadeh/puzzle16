@@ -1,0 +1,11 @@
+C:\Users\PAIA SYSTEM\Desktop\pazal_16\pazal_16\bin\Debug\pazal_16.exe.config
+E:\درسی\هوش\puzzele\pazal_16\pazal_16\bin\Debug\pazal_16.exe.config
+E:\درسی\هوش\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.csprojResolveAssemblyReference.cache
+E:\درسی\هوش\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.Form1.resources
+E:\درسی\هوش\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.Properties.Resources.resources
+E:\درسی\هوش\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.csproj.GenerateResource.Cache
+E:\درسی\هوش\project\puzzele\pazal_16\pazal_16\bin\Debug\pazal_16.exe.config
+E:\درسی\هوش\project\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.csprojResolveAssemblyReference.cache
+E:\درسی\هوش\project\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.Form1.resources
+E:\درسی\هوش\project\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.Properties.Resources.resources
+E:\درسی\هوش\project\puzzele\pazal_16\pazal_16\obj\Debug\pazal_16.csproj.GenerateResource.Cache
